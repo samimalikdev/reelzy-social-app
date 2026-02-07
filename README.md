@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Reelzy Logo](assets/icon/app_icon.png)
+<img src="assets/icon/app_icon.png.png" width="160" alt="Reelzy Logo"/>
 
 **A feature-rich social media platform for sharing short videos, stories, and connecting with friends**
 
@@ -43,33 +43,36 @@ Reelzy is a modern social media application that combines the best features of p
 ### 📱 App Screenshots
 
 <p align="center">
-  <img src="assets/screenshots/screenshot1.png"  width="250" alt="Screenshot 1"/>
-  <img src="assets/screenshots/screenshot2.png"  width="250" alt="Screenshot 2"/>
-  <img src="assets/screenshots/screenshot3.png"  width="250" alt="Screenshot 3"/>
+  <img src="assets/screenshots/screenshot1.jpeg"  width="250" alt="Screenshot 1"/>
+  <img src="assets/screenshots/screenshot2.jpeg"  width="250" alt="Screenshot 2"/>
+  <img src="assets/screenshots/screenshot3.jpeg"  width="250" alt="Screenshot 3"/>
 </p>
 
 <p align="center">
-  <img src="assets/screenshots/screenshot4.png"  width="250" alt="Screenshot 4"/>
-  <img src="assets/screenshots/screenshot5.png"  width="250" alt="Screenshot 5"/>
-  <img src="assets/screenshots/screenshot6.png"  width="250" alt="Screenshot 6"/>
+  <img src="assets/screenshots/screenshot4.jpeg"  width="250" alt="Screenshot 4"/>
+  <img src="assets/screenshots/screenshot5.jpeg"  width="250" alt="Screenshot 5"/>
+  <img src="assets/screenshots/screenshot6.jpeg"  width="250" alt="Screenshot 6"/>
 </p>
 
 <p align="center">
-  <img src="assets/screenshots/screenshot7.png"  width="250" alt="Screenshot 7"/>
-  <img src="assets/screenshots/screenshot8.png"  width="250" alt="Screenshot 8"/>
-  <img src="assets/screenshots/screenshot9.png"  width="250" alt="Screenshot 9"/>
+      <img src="assets/screenshots/screenshot8.jpeg"  width="250" alt="Screenshot 8"/>
+  <img src="assets/screenshots/screenshot7.jpeg"  width="250" alt="Screenshot 7"/>
+  <img src="assets/screenshots/screenshot9.jpeg"  width="250" alt="Screenshot 9"/>
 </p>
 
 <p align="center">
-  <img src="assets/screenshots/screenshot10.png" width="250" alt="Screenshot 10"/>
-  <img src="assets/screenshots/screenshot11.png" width="250" alt="Screenshot 11"/>
-  <img src="assets/screenshots/screenshot12.png" width="250" alt="Screenshot 12"/>
+  <img src="assets/screenshots/screenshot10.jpeg" width="250" alt="Screenshot 10"/>
+  <img src="assets/screenshots/screenshot11.jpeg" width="250" alt="Screenshot 11"/>
+  <img src="assets/screenshots/screenshot12.jpeg" width="250" alt="Screenshot 12"/>
 </p>
 
 <p align="center">
-  <img src="assets/screenshots/screenshot13.png" width="250" alt="Screenshot 13"/>
-  <img src="assets/screenshots/screenshot14.png" width="250" alt="Screenshot 14"/>
+  <img src="assets/screenshots/screenshot13.jpeg" width="250" alt="Screenshot 13"/>
+  <img src="assets/screenshots/screenshot14.jpeg" width="250" alt="Screenshot 14"/>
+    <img src="assets/screenshots/screenshot15.jpeg" width="250" alt="Screenshot 14"/>
+
 </p>
+
 
 
 ---
@@ -443,10 +446,3 @@ For support, email samimalik33334@gmail.com or open an issue in this repository.
 ⭐ Star this repo if you find it helpful!
 
 **Tested at Scale • Production Ready • Built to Perform**
-
-</div>
-git commit -m "Add app screenshots"
-git push
-```
-
-The README will automatically display them in a grid layout!
