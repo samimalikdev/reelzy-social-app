@@ -1,4 +1,4 @@
-# 📱 Reelzy - Social Media & Short Video Platform
+# Reelzy - Social Media & Short Video Platform
 
 <div align="center">
 
@@ -12,81 +12,60 @@
 [![Socket.IO](https://img.shields.io/badge/Socket.IO-Real--time-010101?logo=socket.io)](https://socket.io)
 [![Firebase](https://img.shields.io/badge/Firebase-Auth-FFCA28?logo=firebase)](https://firebase.google.com)
 
-[Features](#-features) • [Tech Stack](#-tech-stack) • [Installation](#-installation) • [Performance](#-performance) • [Demo](#-demo)
+[Features](#features) • [Tech Stack](#tech-stack) • [Installation](#installation) • [Performance](#performance--testing) • [Demo](#demo)
 
 </div>
 
 ---
 
-## 🎯 Overview
+## Overview
 
-Reelzy is a modern social media application that combines the best features of popular platforms like TikTok, Instagram, and Snapchat. Built with Flutter for cross-platform mobile development and Node.js for a robust backend, Reelzy offers real-time messaging, video sharing, stories, and WebRTC-powered voice/video calls.
+Reelzy is a modern social media application that combines the core features of leading platforms like TikTok, Instagram, and Snapchat. Built with Flutter for cross-platform mobile development and Node.js for a robust backend, Reelzy offers real-time messaging, video sharing, stories, and WebRTC-powered voice/video calls.
 
-**✅ Production-Ready & Battle-Tested**: This application has been rigorously tested with bulk seeded data including thousands of reels, posts, user interactions, comments, and messages. Performance remains smooth and responsive even under heavy load.
+**Production-Ready and Battle-Tested**: This application has been rigorously tested with bulk seeded data including thousands of reels, posts, user interactions, comments, and messages. Performance remains smooth and responsive even under heavy load.
 
 ---
 
-## 🎬 Demo
+## Demo
 
-### 📹 Full App Walkthrough
+### Full App Walkthrough
 
 <div align="center">
   <a href="https://youtu.be/c4MJoybF7N8?si=pSx8JYZ-Dm6Wqql9">
     <img src="https://img.youtube.com/vi/c4MJoybF7N8/maxresdefault.jpg" alt="Reelzy - Full App Demo" width="700"/>
   </a>
-  <p><b>🎥 Click to watch the complete feature demonstration</b></p>
-  <p><i>See all features in action: Authentication, Reels, Messaging, Calls, Stories, and more!</i></p>
+  <p><b>Click to watch the complete feature demonstration</b></p>
+  <p><i>See all features in action: Authentication, Reels, Messaging, Calls, Stories, and more.</i></p>
 </div>
 
 ---
 
-### 📱 App Screenshots
+### App Screenshots
 
 <p align="center">
-  <img src="assets/screenshots/screenshot1.jpeg"  width="250" alt="Screenshot 1"/>
-  <img src="assets/screenshots/screenshot2.jpeg"  width="250" alt="Screenshot 2"/>
-  <img src="assets/screenshots/screenshot3.jpeg"  width="250" alt="Screenshot 3"/>
+  <img src="assets/reelzy.jpeg" width="100%" alt="App 1"/>
 </p>
 
 <p align="center">
-  <img src="assets/screenshots/screenshot4.jpeg"  width="250" alt="Screenshot 4"/>
-  <img src="assets/screenshots/screenshot5.jpeg"  width="250" alt="Screenshot 5"/>
-  <img src="assets/screenshots/screenshot6.jpeg"  width="250" alt="Screenshot 6"/>
+  <img src="assets/reelzy1.jpeg" width="100%" alt="App 2"/>
 </p>
 
 <p align="center">
-      <img src="assets/screenshots/screenshot8.jpeg"  width="250" alt="Screenshot 8"/>
-  <img src="assets/screenshots/screenshot7.jpeg"  width="250" alt="Screenshot 7"/>
-  <img src="assets/screenshots/screenshot9.jpeg"  width="250" alt="Screenshot 9"/>
+  <img src="assets/reelzy3.jpeg" width="100%" alt="App 2"/>
 </p>
-
-<p align="center">
-  <img src="assets/screenshots/screenshot10.jpeg" width="250" alt="Screenshot 10"/>
-  <img src="assets/screenshots/screenshot11.jpeg" width="250" alt="Screenshot 11"/>
-  <img src="assets/screenshots/screenshot12.jpeg" width="250" alt="Screenshot 12"/>
-</p>
-
-<p align="center">
-  <img src="assets/screenshots/screenshot13.jpeg" width="250" alt="Screenshot 13"/>
-  <img src="assets/screenshots/screenshot14.jpeg" width="250" alt="Screenshot 14"/>
-    <img src="assets/screenshots/screenshot15.jpeg" width="250" alt="Screenshot 14"/>
-
-</p>
-
-
 
 ---
 
-## ✨ Features
+## Features
 
-### 📹 Video & Media
+### Video & Media
 - **Short Video Reels** - Upload and watch engaging short-form videos
 - **Video Thumbnails** - Auto-generated thumbnails for better preview
 - **Like, Save & Share** - Full engagement features for all content
 - **Video Player Controls** - Smooth playback with custom controls
 - **Infinite Scroll** - Seamless feed experience with pagination
 
-### 💬 Real-time Messaging
+### Real-time Messaging
 - **Socket.IO Integration** - Instant message delivery
 - **Text & Image Messages** - Rich media messaging support
 - **Typing Indicators** - Real-time typing status
@@ -94,20 +73,20 @@ Reelzy is a modern social media application that combines the best features of p
 - **Read Receipts** - Track message delivery and read status
 - **Message History** - Persistent chat history with pagination
 
-### 📞 Voice & Video Calls
+### Voice & Video Calls
 - **WebRTC Integration** - High-quality peer-to-peer calls
-- **Audio Calls** - Crystal-clear voice communication
+- **Audio Calls** - Clear voice communication
 - **Video Calls** - Face-to-face video conversations
 - **Call Notifications** - Incoming call alerts with push notifications
 - **Call Controls** - Mute, speaker, and camera toggle
 
-### 📸 Stories
+### Stories
 - **24-hour Stories** - Share temporary content that disappears
-- **Story Viewer** - Beautiful story viewing experience with progress indicators
+- **Story Viewer** - Story viewing experience with progress indicators
 - **Story Feed** - See stories from people you follow
 - **Media Upload** - Photo and video stories
 
-### 👤 Social Features
+### Social Features
 - **User Profiles** - Customizable profiles with bio and profile pictures
 - **Follow System** - Follow/unfollow users with real-time updates
 - **Activity Feed** - See what your network is up to
@@ -116,14 +95,14 @@ Reelzy is a modern social media application that combines the best features of p
 - **Nested Comments** - Reply to comments with threading support
 - **Like & Save** - Bookmark favorite content
 
-### 🔐 Authentication
+### Authentication
 - **Email/Password** - Traditional authentication
 - **Google Sign-In** - One-tap Google authentication
 - **Facebook Login** - Facebook OAuth integration
 - **Apple Sign-In** - Apple ID authentication (iOS)
 - **Password Reset** - Secure password recovery
 
-### 🎨 User Interface
+### User Interface
 - **Modern Design** - Clean and intuitive UI/UX
 - **Smooth Animations** - Polished transitions and effects
 - **Responsive Layout** - Adapts to different screen sizes
@@ -132,7 +111,7 @@ Reelzy is a modern social media application that combines the best features of p
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Frontend (Flutter)
 ```yaml
@@ -183,7 +162,7 @@ Dependencies:
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ### Prerequisites
 - Flutter SDK 3.7.0+
@@ -206,6 +185,7 @@ npm install
 ```
 
 3. **Configure environment variables**
+
 Create `.env` file:
 ```env
 # MongoDB
@@ -258,6 +238,7 @@ flutterfire configure
 ```
 
 4. **Update API endpoint**
+
 Edit `lib/controller/api/api_controller.dart`:
 ```dart
 static const String baseUrl = 'https://your-backend-url.com';
@@ -277,12 +258,13 @@ flutter run
 
 ---
 
-## ⚡ Performance & Testing
+## Performance & Testing
 
 ### Load Testing Results
+
 Reelzy has been extensively tested with production-scale data to ensure reliability and performance:
 
-✅ **Data Scale Testing:**
+**Data Scale Testing:**
 - **10,000+** video reels uploaded and played
 - **50,000+** user posts and comments
 - **100,000+** user interactions (likes, saves, shares)
@@ -290,7 +272,7 @@ Reelzy has been extensively tested with production-scale data to ensure reliabil
 - **1,000+** concurrent socket connections
 - **5,000+** user accounts created
 
-✅ **Performance Metrics:**
+**Performance Metrics:**
 - **Real-time messaging**: < 100ms latency
 - **Video playback**: Smooth 60fps rendering
 - **Feed loading**: < 2s for initial load
@@ -298,7 +280,7 @@ Reelzy has been extensively tested with production-scale data to ensure reliabil
 - **Image/video upload**: Optimized with CDN delivery
 - **Database queries**: Indexed and optimized for speed
 
-✅ **Stability:**
+**Stability:**
 - **Zero crashes** during stress testing
 - **Memory efficient**: Proper cleanup and disposal
 - **Network resilient**: Handles poor connectivity gracefully
@@ -306,7 +288,7 @@ Reelzy has been extensively tested with production-scale data to ensure reliabil
 
 ---
 
-## 🏗 Architecture
+## Architecture
 
 ### System Architecture
 ```
@@ -370,7 +352,7 @@ socket.on('call:end', () => {})
 
 ---
 
-## 🔐 Security Features
+## Security Features
 
 - **Helmet.js**: Security headers and XSS protection
 - **Rate Limiting**: API request throttling (100 requests/hour per IP)
@@ -383,9 +365,9 @@ socket.on('call:end', () => {})
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
-Contributions are welcome! Please follow these steps:
+Contributions are welcome. Please follow these steps:
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
@@ -395,13 +377,13 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 👨‍💻 Developer
+## Developer
 
 **Sami Malik**
 - GitHub: [@samimalikdev](https://github.com/samimalikdev)
@@ -409,24 +391,24 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
-- Flutter team for the amazing framework
+- Flutter team for the framework
 - Socket.IO for real-time capabilities
 - Firebase for authentication and push notifications
 - AWS for reliable cloud storage
-- GetX for elegant state management
+- GetX for state management
 - WebRTC for peer-to-peer communication
 
 ---
 
-## 📞 Support
+## Support
 
 For support, email samimalik33334@gmail.com or open an issue in this repository.
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 - [ ] Live streaming functionality
 - [ ] AR filters for videos and stories
@@ -441,8 +423,10 @@ For support, email samimalik33334@gmail.com or open an issue in this repository.
 
 <div align="center">
 
-**Made with ❤️ using Flutter & Node.js**
+**Built with Flutter & Node.js**
 
-⭐ Star this repo if you find it helpful!
+Star this repo if you find it helpful.
 
 **Tested at Scale • Production Ready • Built to Perform**
+
+</div>
